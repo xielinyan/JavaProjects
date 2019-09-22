@@ -1,0 +1,2 @@
+这个是用  git clone 远程复制过来的git地址
+例如 ： git clone git@github.com:xielinyan/JavaProjects.git
